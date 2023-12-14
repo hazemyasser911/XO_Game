@@ -1,0 +1,14 @@
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.FrmMain.resources
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\bin\Debug\Guna.UI2.dll
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.csproj.CopyComplete
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.Frm_OnePlayer.resources
+C:\Users\dell\OneDrive\Desktop\Form1\Form1\obj\Debug\Form1.Frm_TwoPlayer.resources
